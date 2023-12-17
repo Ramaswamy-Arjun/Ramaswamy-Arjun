@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramaswamy-Arjun
 - 🏫 I'm a student at VIT Chennai 
-- 💞️ I’m looking to collaborate on power management in modern systems
+- 💞️ I’m looking to hone my skills in data analytics
 
 <!---
 Ramaswamy-Arjun/Ramaswamy-Arjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
